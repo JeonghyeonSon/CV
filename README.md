@@ -1,9 +1,10 @@
 # CV
 My academic CV and research portfolio
 
-# 🐖 Jeonghyeon Son [손 정현]
-Ph.D. Student in Animal Science (Swine nutrition)
-North Carolina State University
+# 🐷 Jeonghyeon Son [손 정현]
+Ph.D. Student in Animal Science (Swine Nutrition)
+
+🐺 North Carolina State University
 
 📧Email: json7@ncsu.edu 🔗[Google Scholar](https://scholar.google.com/citations?user=FwQUdD4AAAAJ&hl=en&authuser=1)
 🔗[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58131804100)
