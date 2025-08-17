@@ -1,6 +1,3 @@
-# CV
-My academic CV and research portfolio
-
 # 🐷 Jeonghyeon Son [손 정현]
 Ph.D. Student in Animal Science (Swine Nutrition)
 
@@ -23,9 +20,9 @@ Ph.D. Student in Animal Science (Swine Nutrition)
 
 ---
 # 🔬 Research Interests
-Precision nutrition in swine
+- Precision nutrition in swine
 
-Nutrient digestibility, availability, and requirement modeling
+- Nutrient digestibility, availability, and requirement modeling
 
-Nutritional interventions and microbiome analysis for intestinal health
+- Nutritional interventions and microbiome analysis for intestinal health
 
