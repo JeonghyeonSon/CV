@@ -24,6 +24,8 @@ Ph.D. Student in Animal Science (Swine Nutrition)
 ---
 # 🔬 Research Interests
 Precision nutrition in swine
+
 Nutrient digestibility, availability, and requirement modeling
+
 Nutritional interventions and microbiome analysis for intestinal health
 
